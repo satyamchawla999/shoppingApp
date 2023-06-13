@@ -1,0 +1,76 @@
+{
+    "products" : [
+        {
+            "id":"1",
+            "name":"Realme Phone",
+            "price":"8,999",
+            "img":"https://m.media-amazon.com/images/I/71dEY4Neo3L._SX679_.jpg",
+            "description":"realme narzo N53 (Feather Gold, 4GB+64GB) 33W Segment Fastest Charging | Slimmest Phone in Segment | 90 Hz Smooth Display"
+        },
+
+        {
+            "id":"2",
+            "name":"Puma Shoes",
+            "price":"1,989",
+            "img":"https://m.media-amazon.com/images/I/71c6fA0zXuS._UL1500_.jpg",
+            "description":"Puma Unisex-Adult Interflex Modern Running Shoe"
+        },
+
+        {
+            "id":"3",
+            "name":"Titan Watch",
+            "price":"4,460",
+            "img":"https://m.media-amazon.com/images/I/715gqt--DPL._UL1500_.jpg",
+            "description":"Titan Neo Analog Dial Men's Watch"
+        },
+
+        {
+            "id":"4",
+            "name":"DecorNation Bed",
+            "price":"18,299",
+            "img":"https://m.media-amazon.com/images/I/61GnO+UavZL._SX355_.jpg",
+            "description":"DecorNation Julius Upholstered Platform Bed for Bedroom, Home Furniture (Grey, Size: Queen, Fitting Mattress, 60 x 78 x 6 Inches)"
+        },
+
+        {
+            "id":"5",
+            "name":"Canon Printer",
+            "price":"9,999",
+            "img":"https://m.media-amazon.com/images/I/51aA1+FcZ7L._SY450_.jpg",
+            "description":"Canon PIXMA G1737 Single Function (Print only) Inktank Printer"
+        },
+
+        {
+            "id":"6",
+            "name":"RedOAK Chair",
+            "price":"24,000",
+            "img":"https://m.media-amazon.com/images/I/51JsqdjgzOL._SY355_.jpg",
+            "description":"RedOAK INSPIRON White High Back, Mesh Seat, Ergonomic Office Chair"
+        },
+
+        {
+            "id":"7",
+            "name":"Logitech Mouse",
+            "price":"595",
+            "img":"https://m.media-amazon.com/images/I/516LU0H963L._SY450_.jpg",
+            "description":"Logitech B170 Wireless Mouse, 2.4 GHz with USB Nano Receiver, Optical Tracking, 12-Months Battery Life, Ambidextrous, PC/Mac/Laptop - Black"
+        },
+
+        {
+            "id":"8",
+            "name":"Perfume",
+            "price":"398",
+            "img":"https://m.media-amazon.com/images/I/61hOVmQZczL._SX355_PIbundle-4,TopRight,0,0_SX355SY323SH20_.jpg",
+            "description":"The Man Company Body Spray Combo Pack For Men, Active, Legend, Intense & Bold, Long-Lasting Fragrance, Everyday Use Deo, 150ml (Pack Of 4)"
+        },
+
+        {
+            "id":"9",
+            "name":"Puma Shoes",
+            "price":"3398",
+            "img":"https://m.media-amazon.com/images/I/81e-0aNiCGL._UL1500_.jpg",
+            "description":"Puma Unisex-Adult X-ray 2 Square Sneakers Sneaker"
+        }
+        
+    ]
+}

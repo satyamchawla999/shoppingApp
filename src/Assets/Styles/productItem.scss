@@ -1,0 +1,44 @@
+.item {
+
+    width: 48%;
+    height: 300px;
+
+    margin: 10px;
+
+    border-radius: 20px;
+    border: 2px solid rgb(70, 123, 236);
+    background-color: rgb(252, 247, 247);
+    box-shadow: rgba(0, 0, 0, 0.15) 2.4px 2.4px 3.2px;
+
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+
+    
+
+    .rightBlock {
+        
+        width: 300px;
+        height: 260px;
+        .image {
+            height: 260px;
+            width: 260px;
+            
+            margin: 20px 20px;
+            border-radius: 20px;
+        }
+
+    }
+
+    .leftBlock {
+        padding: 40px 10px;
+        width: 400px;
+        height: 260px;
+
+        h2,p {
+            padding: 0;
+            margin: 0;
+        }
+    }
+
+}
